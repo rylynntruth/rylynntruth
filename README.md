@@ -3,3 +3,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rylynntruth)](https://solved.ac/rylynntruth)
 * * *
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rylynntruth&layout=dark&theme=dark)
+* * *
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rylynntruth)](https://git.io/streak-stats)
